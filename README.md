@@ -2,7 +2,7 @@
 
                             A Dao of Web Design Summary
                        
-{Hero image for summary} (img/illustration.jpg)                       
+{Hero image for summary} (img/EbbandFlow.jpg)                       
                      
 
 
@@ -25,3 +25,10 @@ Being able to adapt is essential in this field. As the world is constantly chang
 Change is difficult for some and we should not forget the hundreds of years of work that came before us. 
 We must honor the past, but understand that the web is new and it is a media that is constantly evolving. 
 It is our job to embrace it and explore that endless possibilities that the web has to offer.
+
+
+#About the Author
+
+Jade Butler, an animation major that loves Shakespeare, Disney and musical theatre
+
+(img/photo.jpg)  
