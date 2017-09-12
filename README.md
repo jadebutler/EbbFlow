@@ -27,7 +27,13 @@ We must honor the past, but understand that the web is new and it is a media tha
 It is our job to embrace it and explore that endless possibilities that the web has to offer.
 
 
-#About the Author
+
+
+
+
+
+
+About the Author
 
 Jade Butler, an animation major that loves Shakespeare, Disney and musical theatre
 
