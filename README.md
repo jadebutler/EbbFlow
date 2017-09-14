@@ -2,7 +2,7 @@
 
                             A Dao of Web Design Summary
                        
-{Hero image for summary} (img/EbbandFlow.jpg)                       
+{Hero image for summary} (images/ebb_flow.png)                    
                      
 
 
