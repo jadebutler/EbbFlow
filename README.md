@@ -4,7 +4,7 @@
                        
            
                      
-![Hero image for summary](images/ebb_flow.png)`
+![Hero image for summary](img/ebb_flow.png)`
 
 
 
