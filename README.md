@@ -7,7 +7,7 @@
 
 
 
-A Dao of Web Design discusses the tension between the old ways of printed media vs. the web. 
+  A Dao of Web Design discusses the tension between the old ways of printed media vs. the web. 
 Web is a new media and one that is constantly changing. Those that are used to printed media such as letters, 
 books and newspapers often find the web daunting and refuse to submit to change. We should not stay stuck in the past 
 but instead evolve with the changing of the time, much like the teachings of Daoism philosophy.
@@ -32,19 +32,12 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
-
-
-
-
-
-
-
 About the Author
 
 
 
 
-Jade Butler is an animation major. A Massachussettes native, she enjoys watching cheesy netflix movies and drinking copious amounts of tea. When she isn't working on animation, she spends her time reading everything from y.a fiction to Tolstoy and listening to musical theatre soundtracks.
+  Jade Butler is an animation major. A Massachussettes native, she enjoys watching cheesy netflix movies and drinking copious amounts of tea. When she isn't working on animation, she spends her time reading everything from y.a fiction to Tolstoy and listening to musical theatre soundtracks.
 
 
 
