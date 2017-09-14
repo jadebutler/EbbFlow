@@ -2,10 +2,11 @@
 
                             A Dao of Web Design Summary
                        
-{Hero image for summary} (images/ebb_flow.png)                 
+           
                      
+![Hero image for summary](images/ebb_flow.png)`
 
-HeaderImage/ebb_flow.png
+
 
  
 Web is a new media and one that is constantly changing. Those that are used to printed media such as letters, 
