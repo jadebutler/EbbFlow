@@ -49,7 +49,7 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
-(img/photo.jpg)  
+(img/photo.png)  
 
 
 **read full article** (https://alistapart.com/article/dao)
