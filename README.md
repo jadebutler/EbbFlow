@@ -12,7 +12,7 @@ Web is a new media and one that is constantly changing. Those that are used to p
 books and newspapers often find the web daunting and refuse to submit to change. There is a rising tension between the old ways of printed media vs. the web. We should not stay stuck in the past but instead evolve with the changing of the time, much like the teachings of Daoism philosophy.
 
 
-_A Dao of Web Design_ includes quotes from the Tao Te Ching. It is a book of Chinese philosophy which emphasize the
+_A Dao of Web Design_ includes quotes from the Tao Te Ching. A book of Chinese philosophy that emphasize the
 importance of 
 
 * flexibility
@@ -22,7 +22,7 @@ importance of
 Theses quotes are used to relate back to web design and show just how 
 relevant they are in modern day society.
 
-The article uses examples of different fonts and layouts and stress the need for accessibility. 
+
 You should take into account that the reader might be far or near sighted and ensure 
 that your media is accessible and user friendly to all. 
 
