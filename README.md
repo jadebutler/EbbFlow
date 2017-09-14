@@ -2,7 +2,7 @@
 
                             A Dao of Web Design Summary
                        
-{Hero image for summary} (images/ebb_flow.png)                    
+{Hero image for summary} (images/ebb_flow.png) (https://octodex.github.com/images/ebb_flow.png)                   
                      
 
 
