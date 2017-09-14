@@ -15,15 +15,19 @@ books and newspapers often find the web daunting and refuse to submit to change.
 _A Dao of Web Design_ includes quotes from the Tao Te Ching. It is a book of Chinese philosophy which emphasize the
 importance of 
 
-*_flexibility, 
+* flexibility
 * harmony 
 * change 
 
-Theses quotes are used to relate back to web design to show just how 
+Theses quotes are used to relate back to web design and show just how 
 relevant they are to the web and in modern day society.
 
-The article uses examples of different fonts, layouts and colors, explaining the importance of accessibility 
-for all media consumers. You should take into account that the reader might be far or near sighted and ensure 
+The article uses examples of different 
+* fonts, 
+* layouts 
+* colors
+to explain the importance of accessibility. 
+You should take into account that the reader might be far or near sighted and ensure 
 that your web based media is accessible and user friendly to all. 
 
 Being able to adapt is essential in this field. As the world is constantly changing, so must you. 
