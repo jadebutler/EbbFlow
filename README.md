@@ -41,7 +41,9 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 **About The Author**
-!{photo](img/photo.png)
+
+
+{![Hero image for summary](img/photo.png)
 
 
 
