@@ -7,10 +7,9 @@
 
 
 
-  A Dao of Web Design discusses the tension between the old ways of printed media vs. the web. 
+ 
 Web is a new media and one that is constantly changing. Those that are used to printed media such as letters, 
-books and newspapers often find the web daunting and refuse to submit to change. We should not stay stuck in the past 
-but instead evolve with the changing of the time, much like the teachings of Daoism philosophy.
+books and newspapers often find the web daunting and refuse to submit to change. There is a rising tention between the old ways of printed media vs. the web. We should not stay stuck in the past but instead evolve with the changing of the time, much like the teachings of Daoism philosophy.
 
 
 A Dao of Web Design includes quotes from the Tao Te Ching. It is a book of Chinese philosophy which emphasize the
