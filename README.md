@@ -33,7 +33,7 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
-About the Author
+About-the-Author
 
 Jade Butler, an animation major that loves Shakespeare, Disney and musical theatre
 
