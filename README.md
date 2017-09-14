@@ -33,9 +33,20 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
+
+
+
+
+
+
 About the Author
 
+
+
+
 Jade Butler is an animation major. A Massachussettes native, she enjoys watching cheesy netflix movies and drinking copious amounts of tea. When she isn't working on animation, she spends her time reading everything from y.a fiction to Tolstoy and listening to musical theatre soundtracks.
+
+
 
 (img/photo.jpg)  
 
