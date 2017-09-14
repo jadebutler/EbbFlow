@@ -31,7 +31,7 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
-**About the Author**
+**About The Author**
 
 
 
@@ -43,4 +43,4 @@ It is our job to embrace it and explore that endless possibilities that the web 
 (img/photo.jpg)  
 
 
-{read full article} (https://alistapart.com/article/dao)
+**read full article** (https://alistapart.com/article/dao)
