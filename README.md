@@ -22,11 +22,7 @@ importance of
 Theses quotes are used to relate back to web design and show just how 
 relevant they are to the web and in modern day society.
 
-The article uses examples of different 
-* fonts, 
-* layouts 
-* colors
-to explain the importance of accessibility. 
+The article uses examples of different fonts,layouts and colors to explain the importance of accessibility. 
 You should take into account that the reader might be far or near sighted and ensure 
 that your web based media is accessible and user friendly to all. 
 
