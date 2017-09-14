@@ -20,9 +20,9 @@ importance of
 * change 
 
 Theses quotes are used to relate back to web design and show just how 
-relevant they are to the web and in modern day society.
+relevant they are in modern day society.
 
-The article uses examples of different fonts and layouts and the need for accessibility. 
+The article uses examples of different fonts and layouts and stress the need for accessibility. 
 You should take into account that the reader might be far or near sighted and ensure 
 that your web based media is accessible and user friendly to all. 
 
