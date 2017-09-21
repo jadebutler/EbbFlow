@@ -76,4 +76,4 @@ It is our job to embrace it and explore that endless possibilities that the web 
  
 
 
-**read full article** (https://alistapart.com/article/dao)
+**Read Full Article** (https://alistapart.com/article/dao)
