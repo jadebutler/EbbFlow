@@ -70,7 +70,7 @@ It is our job to embrace it and explore that endless possibilities that the web 
 
 
 
-  Jade Butler is an animation major from massachusetts. She enjoys watching cheesy netflix movies and drinking copious amounts of tea. When she isn't drawing, she spends her time reading everything from Tolstoy TO Y.a and listening to musical theatre soundtracks.
+  Jade Butler is an animation major from massachusetts. She enjoys watching cheesy netflix movies and drinking copious amounts of tea. When she isn't drawing, she spends her time reading everything from Tolstoy to Y.a and listening to musical theatre soundtracks.
 
 
  
